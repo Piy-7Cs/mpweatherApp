@@ -269,7 +269,7 @@ export const updateWeather = function (lat , lon ) {
 
 											<p class="title-1">${Number(no2).toPrecision(3)}</p>
 
-											<p class="label-1">NO<sub>2.5</sub></p>
+											<p class="label-1">NO<sub>2</sub></p>
 
 										</li>
 
